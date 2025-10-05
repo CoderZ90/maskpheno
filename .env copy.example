@@ -1,0 +1,17 @@
+PORT=3300
+
+# Example MongoDB Atlas connection string (replace placeholders)
+# MONGO_CONNECTION_URL=mongodb+srv://<username>:<password>@<cluster-host>/<database>?retryWrites=true&w=majority
+MONGO_CONNECTION_URL=
+
+# Used for express-session cookie signing
+COOKIE_SECRET=change_this_to_a_long_random_string
+
+COOKIE_SECRET=thisismysecret
+MONGO_CONNECTION_URL=mongodb://localhost/pizza
+STRIPE_PRIVATE_KEY=stripe_secret_key
+
+
+
+#Mongo cluster pass:  RUqGS73sw5EkT91i
+#Mongo cluster username: vulnerability6848_db_user
